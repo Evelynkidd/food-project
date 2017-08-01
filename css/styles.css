@@ -1,0 +1,43 @@
+body {
+  font-family: Impact, fantasy;
+  font-size: 25px;
+  background-color: #ff944d;
+  color: #990000;
+  text-align: center;
+}
+
+h2 {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+h3 {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+a {
+  color: black;
+}
+
+p {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+ol {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+li {
+  line-height: 35px;
+}
